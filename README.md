@@ -6,4 +6,4 @@
 - 🌱 Currently diving into backends and data science, eager to explore their depths.
 
 ## Skills
-- Languages:  JavaScript, HTML/CSS, Java, Kotlin, C, C++, SQL, Python.
+- JavaScript, HTML/CSS, Java, Kotlin, C, C++, SQL, Python.
