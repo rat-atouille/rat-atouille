@@ -1,4 +1,4 @@
-# Hi there, I'm Hailey Pong! 👋
+# Hi there, I'm Hailey! 👋
 
 ## About Me
 - 🎓 I'm a computer science student currently studying at University of Western Ontario.
