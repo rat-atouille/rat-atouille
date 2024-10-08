@@ -10,6 +10,6 @@ My projects:
 
 Technologies I'm familiar with:
 
-Programming Languages: C, C++, Python, Java, Kotlin, JavaScript, TypeScript, PHP, SQL
-Framework/Libraries: Bootstrap, React, Node.js, Express.js, Pandas, MySQL
-Tools & Technologies: Git, Docker, Linux/Unix
+- Programming Languages: C, C++, Python, Java, Kotlin, JavaScript, TypeScript, PHP, SQL
+- Framework/Libraries: Bootstrap, React, Node.js, Express.js, Pandas, MySQL
+- Tools & Technologies: Git, Docker, Linux/Unix
