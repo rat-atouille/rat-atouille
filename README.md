@@ -15,3 +15,6 @@ I'm a computer science student at University of Western Ontario, passionate abou
 - **Others:** Git, Docker, Linux/Unix
 
 I have experience in building software/applications with **Java, JavaScript, TypeScript, SQL, and C++**, currently working on a C++ software project for coursework. I am also proficient in **Python, C, and PHP** from previous courseworks.
+
+#### Coursework ####
+Data Structures and Algorithms| Introduction to Software Engineering | Software Project Management | Operating Systems | Object-Oriented Design and Analysis| Database I | Artificial Intelligence I | Artificial Intelligence II | Game Programming
