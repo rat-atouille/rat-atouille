@@ -13,3 +13,5 @@ I'm a computer science student at University of Western Ontario, passionate abou
 - **Frontend:** HTML, React, CSS/SASS, Bootstrap
 - **Backend:** PHP, Node.js, Express
 - **Others:** Git, Docker, Linux/Unix
+
+I have experience with **Java, JavaScript, TypeScript, SQL, and C++**, currently working on a C++ software project for coursework. I am also proficient in **Python, C, and PHP** from previous courseworks.
