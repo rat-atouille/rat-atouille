@@ -10,12 +10,12 @@ I'm a computer science student at University of Western Ontario, passionate abou
 ...And keep look out for more projects!
 
 #### Technologies I'm familiar with: ###
-- **Programming Languages:** C, C++, Python, Java, Kotlin, JavaScript, TypeScript, PHP, SQL
+- **Programming Languages:** C, C++, Python, Java, JavaScript, TypeScript, PHP, SQL
 - **Frontend:** HTML, React, CSS/SASS, Bootstrap
 - **Backend:** PHP, Node.js, Express
-- **Others:** Git, Docker, Linux/Unix
+- **Others:** Git, Linux/Unix
 
 I have experience in building software/applications with **Java, JavaScript, TypeScript, SQL, and C++**, currently working on a C++ software project for coursework. I am also proficient in **Python, C, and PHP** from previous courseworks.
 
 #### Coursework ####
-Data Structures and Algorithms| Introduction to Software Engineering | Software Project Management | Operating Systems | Object-Oriented Design and Analysis| Database I | Artificial Intelligence I | Artificial Intelligence II | Game Programming
+Data Structures and Algorithms | Introduction to Software Engineering | Software Project Management | Operating Systems | Object-Oriented Design and Analysis| Database I | Artificial Intelligence I | Artificial Intelligence II | Game Programming
