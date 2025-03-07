@@ -1,5 +1,5 @@
 Hello there 👋
 
-I like creating and building things.
+I like designing and building things.
 
-I'm interested in full stack (but I have a love & hate relationship with CSS 😡), iOS development and cloud.
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
