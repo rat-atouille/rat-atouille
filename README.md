@@ -1,4 +1,3 @@
-# My Portfolio
 
 ## Dotz
 iOS habit tracker app
