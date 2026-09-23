@@ -16,4 +16,4 @@ Story app to make user more conscious of environmental impact in fashion
 Open source app preview for mobile apps
 [link](https://github.com/rat-atouille/mobi)
 
-### And some other old stuff from school and long time ago. Feel free to look around
+### And some other old stuff from school and long time ago...
