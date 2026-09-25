@@ -1,4 +1,5 @@
 # Current portfolio 
+my current portfolio website it down, so here are some projects I have recently worked on. 
 
 ### Dotz
 iOS habit tracker app
