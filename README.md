@@ -14,7 +14,7 @@ Story app to make user more conscious of environmental impact in fashion
 [link](https://github.com/rat-atouille/lifeOfTshirt)
 
 ### Mobi (Under dev)
-Open source app preview for mobile apps
+Open source for mobile app previews
 [link](https://github.com/rat-atouille/mobi)
 
 And some other old stuff from school and long time ago... you can look around 
