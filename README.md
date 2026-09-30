@@ -13,8 +13,6 @@ MacOS clipboard management app
 Story app to make user more conscious of environmental impact in fashion
 [link](https://github.com/rat-atouille/lifeOfTshirt)
 
-### Mobi (Under dev)
-Web app for mobile app previews
-[link](https://github.com/rat-atouille/mobi)
+### Camori (coming soon)
 
 And some other old stuff from school and long time ago... you can look around 
