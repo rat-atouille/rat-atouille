@@ -1,18 +1,1 @@
-# Current portfolio 
-my current portfolio website is under an update, so here are some projects I have recently worked on. 
-
-### Dotz
-iOS habit tracker app
-[link](https://apps.apple.com/ca/app/dotz/id6787842777)
-
-### SideArchive
-MacOS clipboard management app
-[link](https://apps.apple.com/ca/app/sidearchive/id6812905597?mt=12)
-
-### A life of a T-shirt
-Story app to make user more conscious of environmental impact in fashion
-[link](https://github.com/rat-atouille/lifeOfTshirt)
-
-### Camori (coming soon)
-
-And some other old stuff from school and long time ago... you can look around 
+hello
